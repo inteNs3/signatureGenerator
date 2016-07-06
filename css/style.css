@@ -1,0 +1,46 @@
+body, html
+{
+	width: 100%;
+	height: 100%;
+	background-image: url('../img/bg.jpg');
+	background-repeat: no-repeat;
+	background-position: fixed;
+}
+
+.navbar
+{
+	background-color: rgba(0, 0, 0, 0.5);
+	border: none;
+}
+
+.modal-body
+{
+	overflow: auto;
+}
+
+.avatar
+{
+	cursor: pointer;
+	border-radius: 50%;
+	max-width: 100px;
+	max-width: 100px;
+}
+
+.container2
+{
+	background-color: rgba(0, 0, 0, 0.5);
+	padding: 10px;
+	color: #eee;
+	font-weight: 500;
+}
+
+h3
+{
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.well
+{
+	color: #333;
+}
