@@ -61,7 +61,7 @@
 						<p><a href="http://twitter.com/xRaiZeN_" target="_blank"><i class="fa fa-twitter-square"></i> Twitter</a></p>
 					</div>
 					<div class="col-md-6 text-right">
-						<img src="http://i.imgur.com/f5gUlep.jpg" class="avatar" />
+						<img src="https://i.imgur.com/f5gUlep.jpg" class="avatar" />
 					</div>
 				</div>
 			</div>
