@@ -105,7 +105,7 @@
 			
 			<img src="" id="img" />
 
-			<div class="well well-sm col-md-10 text-right pull-right" style="margin-top:5px">https://skript.pl/projekty/generator-sygnatur/<span id="string"></span></div>
+			<div class="well well-sm col-md-10 text-right pull-right" style="margin-top:5px">http://projekty.skript.pl/generator-sygnatur/<span id="string"></span></div>
 
 		</div>
 
