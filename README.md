@@ -3,7 +3,7 @@ simple signature generator, written in php, based on gd library.
 
 feel free to edit, add changes and everything you want
 
-[see it live](https://skript.pl/projekty/generator-sygnatur/)
+[see it live](https://projekty.skript.pl/generator-sygnatur/)
 
 #usage
 
