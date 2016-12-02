@@ -1,7 +1,7 @@
 #signatureGenerator
 simple signature generator, written in php, based on gd library. 
 
-feel free to edit, add changes and everything you want
+feel free to edit, add changes and anything you want
 
 [see it live](https://projekty.skript.pl/generator-sygnatur/)
 
@@ -21,6 +21,6 @@ where:
 
 ### example link
 
-*website.com*/img.php?cat=cars&bg=bg5&nick=RaiZeN
+*website.com*/img.php?cat=cars&bg=bg5&nick=inteNsE-
 
-![example image](http://i.imgur.com/AHrlFVm.png)
+![example image](http://i.imgur.com/ClmE9ZP.png)
