@@ -9,7 +9,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>Signature Generator by RaiZeN</title>
+	<title>Signature Generator by inteNsE-</title>
 
 	<!-- Bootstrap Core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -112,7 +112,7 @@
 	</div>
 
 	<div class="container text-right">
-		Copyright &copy; 2016 skript.pl
+		Copyright &copy; 2016 yourdomain.com
 	</div>
 
 	<!-- jQuery Version 1.11.1 -->
