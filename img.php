@@ -1,7 +1,7 @@
 <?php
 
-	// created by RaiZeN
-	// @xRaiZeN_ | /id/xRaiZeN | /u/MrRaiZeN
+	// created by inteNsE- aka. RaiZeN
+	// @inteNs3_ | /id/inteNsE-- | /u/MrRaiZeN
 
 	// image 
 	$img = ImageCreateFrompng('img/bg/'.$_GET['cat'].'/'.$_GET['bg'].'.png');
